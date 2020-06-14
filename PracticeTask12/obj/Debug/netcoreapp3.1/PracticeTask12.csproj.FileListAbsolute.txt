@@ -1,0 +1,10 @@
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\bin\Debug\netcoreapp3.1\PracticeTask12.exe
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\bin\Debug\netcoreapp3.1\PracticeTask12.deps.json
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\bin\Debug\netcoreapp3.1\PracticeTask12.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\bin\Debug\netcoreapp3.1\PracticeTask12.runtimeconfig.dev.json
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\bin\Debug\netcoreapp3.1\PracticeTask12.dll
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\bin\Debug\netcoreapp3.1\PracticeTask12.pdb
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\obj\Debug\netcoreapp3.1\PracticeTask12.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\obj\Debug\netcoreapp3.1\PracticeTask12.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\obj\Debug\netcoreapp3.1\PracticeTask12.dll
+C:\Users\Aleksandr\source\repos\PracticeTask12\PracticeTask12\obj\Debug\netcoreapp3.1\PracticeTask12.pdb
